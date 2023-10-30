@@ -15,7 +15,7 @@ The topics covered are:
 6. MPI input and output.
 
 Technical requirements:
--- Operating System: Linux distribution (for example Ubuntu Linux);
--- Compilers: GCC;
--- MPI implementation: Open MPI;
--- Programming languages: both C and C++.
+- Operating System: Linux distribution (for example Ubuntu Linux);
+- Compilers: GCC;
+- MPI implementation: Open MPI;
+- Programming languages: both C and C++.
